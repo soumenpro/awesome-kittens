@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/awesome-kittens/static/css/main.1258e12c.chunk.css",
+    "main.js": "/awesome-kittens/static/js/main.4c79350b.chunk.js",
+    "main.js.map": "/awesome-kittens/static/js/main.4c79350b.chunk.js.map",
+    "runtime-main.js": "/awesome-kittens/static/js/runtime-main.86a7960d.js",
+    "runtime-main.js.map": "/awesome-kittens/static/js/runtime-main.86a7960d.js.map",
+    "static/js/2.eb096e86.chunk.js": "/awesome-kittens/static/js/2.eb096e86.chunk.js",
+    "static/js/2.eb096e86.chunk.js.map": "/awesome-kittens/static/js/2.eb096e86.chunk.js.map",
+    "index.html": "/awesome-kittens/index.html",
+    "precache-manifest.5f4c40ce6e45a79a2f4425c3c211f4bf.js": "/awesome-kittens/precache-manifest.5f4c40ce6e45a79a2f4425c3c211f4bf.js",
+    "service-worker.js": "/awesome-kittens/service-worker.js",
+    "static/css/main.1258e12c.chunk.css.map": "/awesome-kittens/static/css/main.1258e12c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86a7960d.js",
+    "static/js/2.eb096e86.chunk.js",
+    "static/css/main.1258e12c.chunk.css",
+    "static/js/main.4c79350b.chunk.js"
+  ]
+}
